@@ -1,2 +1,4 @@
 # ContactPCB
-Just another contact PCB
+A personal business card to impress the appropiate people in conferences!
+
+![ContactPCB](Photos/sample.jpg)
